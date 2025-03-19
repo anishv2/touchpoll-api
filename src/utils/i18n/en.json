@@ -1,0 +1,28 @@
+{
+    "user":{
+        "welcome" :"Welcome ",
+        "invalid":"Invalid email or password",
+        "register":"Registeration Completion Successful",
+        "registerfail":"Registration Failed",
+        "exist":"Email already exist",
+        "notexist":"User not exist",
+        "updatefail":"User Updation failed",
+        "updatesuccess":"Password updated successfully",
+        "signinerror":"Error occured while signin",
+        "signinfail":"signin failed",
+        "deletesuccess":"User deleted successfully",
+        "deletefail":"User not deleted",
+        "unauthorize":"Unauthorized user"
+    },
+    "poll":{
+        "create":"Poll created successfully",
+        "createfail":"Poll creation failed",
+        "updatefail":"Poll updation failed",
+        "updatesuccess":"Poll updated successfully",
+        "deletesuccess":"Poll deleted successfully",
+        "deletefail":"Poll not deleted",
+        "submitted":"Thank you for voted",
+        "alreadyvoted":"You already voted"
+
+    }
+}
