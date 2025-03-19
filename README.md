@@ -15,9 +15,9 @@ npm install
 2. Then create **`.env`** file into your app/project folder not in **`src`** which you created, open the **`.env`** file and type the line 
 
 ```
-SERVER_PORT=<YOUR PORT NO>
-DB_CONNECT_URL=<YOUR MongoDB Connection URL>
-JWT_PRV_KEY=<YOUR SECRET KEY FOR JWT>
+PORT=<YOUR PORT NO>
+DB_URI=<YOUR MongoDB Connection URL>
+JWT_KEY=<YOUR SECRET KEY FOR JWT>
 
 ```
 and save it.
